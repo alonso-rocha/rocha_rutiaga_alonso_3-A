@@ -1,1 +1,3 @@
-# rocha_rutiaga_alonso_3-A
+Rocha Rutiaga Alonso
+3-A
+Programación Orientada a Objetos
